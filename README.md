@@ -1,0 +1,7 @@
+- Hi, I’m Jwem
+- I’m interested in engineering
+- I’m currently learning arduino
+- I just started my engineering journey and currently working on making space invaders on arduino oled screen since I counldn't find any code for it online
+- My first project was a simple game on a 16x2 LCD screen where you play as a triangle trying to dodge walls coming at you from the left using a joystick
+- I’m looking to collaborate on everything you want lol
+- How to reach me: wikx3133melec@gmail.com
